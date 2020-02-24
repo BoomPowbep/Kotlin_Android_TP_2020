@@ -1,0 +1,2 @@
+include ':app', ':example', ':news', ':news2', ':databinding'
+rootProject.name='DMII'

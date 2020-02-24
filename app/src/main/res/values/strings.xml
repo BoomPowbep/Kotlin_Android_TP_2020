@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DMII</string>
+    <string name="firstNumberHint">Entrez le premier nombre</string>
+    <string name="secondNumberHint">Entrez le deuxième nombre</string>
+    <string name="calculer">Calculer</string>
+    <string name="result">La somme de %.2f et %.2f est %.2f</string>
+    <string name="plus">+</string>
+    <string name="divide">/</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+</resources>

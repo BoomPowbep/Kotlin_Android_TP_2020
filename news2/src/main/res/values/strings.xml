@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">news2</string>
+    <string name="demo_title">Demo title</string>
+    <string name="oui">oui</string>
+    <string name="author">author</string>
+    <string name="share">Share</string>
+</resources>

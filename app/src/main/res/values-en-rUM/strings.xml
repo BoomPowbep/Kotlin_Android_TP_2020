@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculer">Compute</string>
+    <string name="firstNumberHint">Enter the first number</string>
+    <string name="result">Sum of %.2f and %.2f is %.2f</string>
+    <string name="secondNumberHint">Enter the second number</string>
+</resources>
